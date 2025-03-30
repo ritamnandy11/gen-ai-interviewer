@@ -1,0 +1,9 @@
+{
+    "initial_question": "Tell me about yourself.",
+    "follow_up_questions": [
+      "What are your strengths?",
+      "Describe a challenge you faced and how you handled it.",
+      "Where do you see yourself in 5 years?"
+    ]
+  }
+  
